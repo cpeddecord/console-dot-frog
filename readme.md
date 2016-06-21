@@ -19,7 +19,7 @@ What is my life?.
 
 ```javascript
 // Here is happy you, logging some logs
-console.frog("Amazing!");
+console.rainbowfrog("Amazing!");
 ```
 
 ```
