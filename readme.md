@@ -1,6 +1,6 @@
-###console.frog
+###console.rainbowfrog
 
-`console.frog` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-frog).
+`console.rainbowfrog` is an easy way to spice up your ~development~ life.
 
 ### Preview
 
@@ -8,16 +8,14 @@ So, here's what regular life looks like:
 
 ```javascript
 // Here is you, logging some logs
-console.log("Boring.");
+console.log("What is my life?");
 ```
 ```
 // And here is your output.
-Boring.
+What is my life?.
 ```
 
-Wow, what a drag that was! No wonder you've become disenchanted with web development.
-
-**NOW!** Here's what your life could be after `console.frog`
+**NOW!** Here's what your life could be after `console.rainbowfrog`
 
 ```javascript
 // Here is happy you, logging some logs
@@ -36,9 +34,4 @@ console.frog("Amazing!");
 Wow. That feels good!
 
 ###Usage
-Simply include the `console.frog.js` file into your app!
-
-###License
-Copyright (c) 2016 Tim Holman - http://tholman.com
-
-The MIT License
+Simply include the `console.rainbowfrog.js` file into your app!
